@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Benji-Challenge-20final-version/precache-manifest.5dbe6fc31597dde1f0750a24e1db587c.js"
+  "/Benji-Challenge-20final-version/precache-manifest.4238ba3637745eafe04221cdf0510f89.js"
 );
 
 self.addEventListener('message', (event) => {
