@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Benji-Challenge-20fff/static/css/main.4900d245.chunk.css",
-    "main.js": "/Benji-Challenge-20fff/static/js/main.69de61f2.chunk.js",
-    "main.js.map": "/Benji-Challenge-20fff/static/js/main.69de61f2.chunk.js.map",
-    "runtime-main.js": "/Benji-Challenge-20fff/static/js/runtime-main.37d141e2.js",
-    "runtime-main.js.map": "/Benji-Challenge-20fff/static/js/runtime-main.37d141e2.js.map",
-    "static/css/2.5544c887.chunk.css": "/Benji-Challenge-20fff/static/css/2.5544c887.chunk.css",
-    "static/js/2.6fd47ff1.chunk.js": "/Benji-Challenge-20fff/static/js/2.6fd47ff1.chunk.js",
-    "static/js/2.6fd47ff1.chunk.js.map": "/Benji-Challenge-20fff/static/js/2.6fd47ff1.chunk.js.map",
-    "index.html": "/Benji-Challenge-20fff/index.html",
-    "precache-manifest.05b2ef13eb7de0c456eeb514e39f6975.js": "/Benji-Challenge-20fff/precache-manifest.05b2ef13eb7de0c456eeb514e39f6975.js",
-    "service-worker.js": "/Benji-Challenge-20fff/service-worker.js",
-    "static/css/2.5544c887.chunk.css.map": "/Benji-Challenge-20fff/static/css/2.5544c887.chunk.css.map",
-    "static/css/main.4900d245.chunk.css.map": "/Benji-Challenge-20fff/static/css/main.4900d245.chunk.css.map",
-    "static/js/2.6fd47ff1.chunk.js.LICENSE.txt": "/Benji-Challenge-20fff/static/js/2.6fd47ff1.chunk.js.LICENSE.txt"
+    "main.css": "/Benji-Challenge-20final-version/static/css/main.4900d245.chunk.css",
+    "main.js": "/Benji-Challenge-20final-version/static/js/main.6749f548.chunk.js",
+    "main.js.map": "/Benji-Challenge-20final-version/static/js/main.6749f548.chunk.js.map",
+    "runtime-main.js": "/Benji-Challenge-20final-version/static/js/runtime-main.28b29034.js",
+    "runtime-main.js.map": "/Benji-Challenge-20final-version/static/js/runtime-main.28b29034.js.map",
+    "static/css/2.5544c887.chunk.css": "/Benji-Challenge-20final-version/static/css/2.5544c887.chunk.css",
+    "static/js/2.6fd47ff1.chunk.js": "/Benji-Challenge-20final-version/static/js/2.6fd47ff1.chunk.js",
+    "static/js/2.6fd47ff1.chunk.js.map": "/Benji-Challenge-20final-version/static/js/2.6fd47ff1.chunk.js.map",
+    "index.html": "/Benji-Challenge-20final-version/index.html",
+    "precache-manifest.5dbe6fc31597dde1f0750a24e1db587c.js": "/Benji-Challenge-20final-version/precache-manifest.5dbe6fc31597dde1f0750a24e1db587c.js",
+    "service-worker.js": "/Benji-Challenge-20final-version/service-worker.js",
+    "static/css/2.5544c887.chunk.css.map": "/Benji-Challenge-20final-version/static/css/2.5544c887.chunk.css.map",
+    "static/css/main.4900d245.chunk.css.map": "/Benji-Challenge-20final-version/static/css/main.4900d245.chunk.css.map",
+    "static/js/2.6fd47ff1.chunk.js.LICENSE.txt": "/Benji-Challenge-20final-version/static/js/2.6fd47ff1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37d141e2.js",
+    "static/js/runtime-main.28b29034.js",
     "static/css/2.5544c887.chunk.css",
     "static/js/2.6fd47ff1.chunk.js",
     "static/css/main.4900d245.chunk.css",
-    "static/js/main.69de61f2.chunk.js"
+    "static/js/main.6749f548.chunk.js"
   ]
 }
