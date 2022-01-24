@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "mvc tech blog",
+    "image": "github link here /raw/master/src/assets/images/tech-blog.PNG",
+    "github": "https://github.com/mambu1998/Challenge14F",
+    "deploy": "http://app-24b67eb4-dd4b-4ab3-83d2-64c8f9fe4ea5.cleverapps.io/",
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+  },
+  {
+    "id": 2,
+    "name": "Weather Scanner",
+    "image": "github link here /raw/master/src/assets/images/weather-scanner.png",
+    "github": "https://github.com/mambu1998/Benji-Challenge-6",
+    "deploy": "https://mambu1998.github.io/Benji-Challenge-6/",
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+  },
+  {
+    "id": 3,
+    "name": "budget tracker",
+    "image": "gitlink goes here /raw/master/src/assets/images/pwabudget.PNG",
+    "github": "https://github.com/mambu1998/Benji-Challenge-11/settings/pages",
+    "deploy": "https://benji-challenge-11.herokuapp.com/",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+  },
+  {
+    "id": 4,
+    "name": "weather dashboard",
+    "image": "Github link goes here/raw/master/src/assets/images/weatherdashboard.PNG",
+    "github": "https://github.com/mambu1998/Benji-Challenge-6",
+    "deploy": "https://mambu1998.github.io/Benji-Challenge-6/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+  }
+]
