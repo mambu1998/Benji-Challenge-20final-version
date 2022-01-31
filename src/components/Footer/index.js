@@ -33,7 +33,7 @@ function Footer() {
       </a>
       <p>
         &copy; Mambu Francis |{" "}
-        <a href="https://github.com/mambu1998/Benji-Challenge-20final-version/raw/master/src/assets/Mambu.pdf" class="link">
+        <a href="https://github.com/mambu1998/Benji-Challenge-20final-version/blob/master/src/assets/images/Mambu.pdf" class="link">
           download resume
         </a>{" "}
         |{" "}
